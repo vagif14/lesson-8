@@ -1,0 +1,23 @@
+.bg {
+    position: relative;
+    background-image: url(./img/1.png);
+    height: 800px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    color: #000;
+    text-align: center;
+    text-shadow: 2px 5px 8px rgba(0, 0, 0, 0.546);
+    font-family: 'Poppins', sans-serif;
+    font-size: 140px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 103.5%;
+    text-align: center;
+}
